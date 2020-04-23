@@ -7,7 +7,7 @@
   <version>0.0.1</version>
   <name>kafka-hello</name>
   <properties>
-    <kafka.artifact.version>kafka_2.13</kafka.artifact.version>
+    <kafka.artifact.version>kafka-clients</kafka.artifact.version>
     <kafka.version>2.4.1</kafka.version>
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.compiler.source>1.8</maven.compiler.source>
